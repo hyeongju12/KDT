@@ -1,0 +1,14 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# CodeStream ignored files
+/../../selenium_vscode_test\.idea/codestream.xml
+# Executables
+*.exe
+
+#Documentation
+.md
+
+#directory
+.idea/
+Driver_Notes/
